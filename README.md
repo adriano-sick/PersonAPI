@@ -6,7 +6,7 @@ This is a simple REST API system to manage a customer DB with: name, phone numbe
 * Initial project setup with Spring Boot Initialzr
 * Data model creation to DB entity mapping
 * Simple user management operation implemetation (Get, Put, Post and Delete)
-* REST Architeture standarts on each operation implemented.
+* REST Architeture standarts used on each operation implemented.
 * Unity tests to validate functionalities
 * Cloud system implemetation, using Heroku => https://adri-person-api.herokuapp.com/api/v1/people/
 
